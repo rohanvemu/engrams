@@ -1,1 +1,2 @@
 # engrams
+This repository has the code needed for decoder that correlates neuronal formation with the identification of a letter in both noisy and clean training data. First, a decoder was used to identify short phrases from clean data and then adapted to noisier training data sets and eventually resulted the decoding of paragraphs from classic literature from provided neural firing data and videos. 
